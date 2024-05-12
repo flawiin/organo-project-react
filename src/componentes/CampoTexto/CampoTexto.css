@@ -1,0 +1,9 @@
+.campoTexto {
+    margin: 1.5rem 0;
+}
+
+.campoTexto label {
+    display: block;
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+}
